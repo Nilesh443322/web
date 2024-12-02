@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+}
+h2{
+    color: rgb(255,000,000);
+}
+h3{
+    color: rgb(27, 179, 199);
+}
+h4{
+    color: grey;
+}
+footer{
+    color:darkred
+}
+aside{
+    color:#3274ff;
+}
+body{
+    background-color:#d2d7df;
+}
+h4{
+    font-size: larger;
+}
