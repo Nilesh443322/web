@@ -23,7 +23,7 @@ body{
   
 }
 .logo{
-    background-image: url("amajon5.jpeg");
+    background-image: url("/img/amajon5.jpeg");
   
     margin-top: 15px;
     height: 50px;
@@ -117,7 +117,7 @@ button:hover{
     background-color: rgb(252, 173, 71);;
 }
 .sy{
-    background-image: url("iflag.png");
+    background-image: url("/img/iflag.png");
     height: 40px;
     width: 30px;
     background-size: contain;
@@ -204,7 +204,7 @@ button:hover{
 }
                                                      /* body part of project */
 .bod{
-    background-image: url("bg.jpg");
+    background-image: url("/img/bg.jpg");
     background-size:contain;
     height: 650px;
     background-repeat: no-repeat;
