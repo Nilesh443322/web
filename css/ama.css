@@ -117,12 +117,12 @@ button:hover{
     background-color: rgb(252, 173, 71);;
 }
 .sy{
-    background-image: url("/img/iflag.png");
-    height: 40px;
+/*     background-image: url("/img/iflag.png"); */
+    height: 20px;
     width: 30px;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 22px;
+/*     margin-top: 22px; */
     margin-left: 6px;
 
 }
